@@ -1,0 +1,3 @@
+# firststeps
+
+echo $_GET;
